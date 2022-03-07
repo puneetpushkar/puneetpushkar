@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**puneetpushkar/puneetpushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science Practitioner, with strong knowledge of Data Structures, Algorithms, and data analysis techniques
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Data Analysis onto production
+- 💬 Ask me about anything 😎
+- 🧑‍💻 I’m looking to collaborate on open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Things I'm good at :fire:
+
+**Domain:** Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+
+**Languages:**  Python, SQL
+
+**Framework:** Flask, Django
+
+**Libraries & Tools:** Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Tableau.
+
+### Reach me out at 📱
+<br> 
+
+[<img src="https://img.icons8.com/bubbles/65/000000/gmail-new.png"/>](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=puneetpushkar5999@gmail.com&tf=1)[<img src="https://img.icons8.com/bubbles/64/000000/twitter.png"/>](https://twitter.com/puneet_pushkar)[<img src="https://img.icons8.com/bubbles/64/000000/linkedin.png"/>](https://www.linkedin.com/in/puneetpushkar/)[<img src="https://img.icons8.com/bubbles/64/000000/telegram-app.png"/>](https://t.me/puneetpushkar)[<img src="https://img.icons8.com/bubbles/64/000000/instagram-new--v2.png"/>](https://www.instagram.com/puneetpushkar_/)[<img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/>](https://medium.com/@puneetpushkar)

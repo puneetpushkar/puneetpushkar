@@ -15,7 +15,7 @@ I am a Data Science Practitioner, with strong knowledge of Data Structures, Algo
 
 **Framework:** Flask, Django
 
-**Libraries & Tools:** Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Tableau.
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Tableau.
 
 ### Reach me out at 📱
 <br> 

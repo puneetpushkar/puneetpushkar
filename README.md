@@ -21,7 +21,7 @@ I am a Data Science Practitioner, with strong knowledge of Data Structures, Algo
 <br> 
 
 [<img src="https://img.icons8.com/bubbles/65/000000/gmail-new.png"/>](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=puneetpushkar5999@gmail.com&tf=1)
-[<img src="https://img.icons8.com/bubbles/64/000000/twitter-squared.png"/>](https://twitter.com/puneet_pushkar)
+[<img src="https://img.icons8.com/bubbles/66/000000/twitter-squared.png"/>](https://twitter.com/puneet_pushkar)
 [<img src="https://img.icons8.com/bubbles/64/000000/linkedin.png"/>](https://www.linkedin.com/in/puneetpushkar/)
 [<img src="https://img.icons8.com/bubbles/64/000000/telegram-app.png"/>](https://t.me/puneetpushkar)
 [<img src="https://img.icons8.com/bubbles/64/000000/instagram-new--v2.png"/>](https://www.instagram.com/puneetpushkar_/)

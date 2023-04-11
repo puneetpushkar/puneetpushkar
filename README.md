@@ -25,4 +25,3 @@ I am a Data Science Practitioner, with strong knowledge of Data Structures, Algo
 [<img src="https://img.icons8.com/bubbles/64/000000/linkedin.png"/>](https://www.linkedin.com/in/puneetpushkar/)
 [<img src="https://img.icons8.com/bubbles/64/000000/telegram-app.png"/>](https://t.me/puneetpushkar)
 [<img src="https://img.icons8.com/bubbles/64/000000/instagram-new--v2.png"/>](https://www.instagram.com/puneetpushkar_/)
-[<img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/>](https://medium.com/@puneetpushkar)
